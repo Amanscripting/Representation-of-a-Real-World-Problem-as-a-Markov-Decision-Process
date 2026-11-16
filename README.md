@@ -168,7 +168,8 @@ print("\nDiscount Factor (γ):", discount_factor)
 ```
 
 # Output
-<img width="714" height="436" alt="image" src="https://github.com/user-attachments/assets/48283227-2ed5-42e3-acdc-99af505eda22" />
+<img width="714" height="386" alt="rlex1" src="https://github.com/user-attachments/assets/9531498e-347d-464c-afb8-d49891abb9ed" />
+
 
 # Result
 
