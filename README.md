@@ -117,8 +117,8 @@ A = {
 ```py
 # MDP Representation for student study planner using Python
 
-print("Name: VENKATANATHAN P R")
-print("Register Number: 212223240173")
+print("Name: Aman Alam")
+print("Register Number: 212224240011")
 
 states = [
     "Unprepared",
